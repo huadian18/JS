@@ -1,6 +1,6 @@
-#JS array
+# JS array
 [TOC]
-###稀疏数组与密集数组
+### 稀疏数组与密集数组
     稀疏数组：数组元素的索引不连续
 ```//稀疏数组
  var array = new Array(3);
